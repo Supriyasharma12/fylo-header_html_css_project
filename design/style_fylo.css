@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: hsl(229, 57%, 11%);
+}
+img{
+        height: 50vh;
+        width: 100vw;
+        max-width: 1440px;
+        background-color: hsl(228, 63%, 25%);
+}
+.background{
+    background-color: rgb(48, 35, 19);
+    /* background-image: url(/fylo-header_html_css_project/images/bg-desktop.png); */
+}
